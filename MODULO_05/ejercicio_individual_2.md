@@ -8,7 +8,7 @@ Las entradas del parque de diversiones suelen tener un precio diferente según e
 
 3. La entrada para adultos mayores con edad __superior a 60 años__, tiene un precio de __20.000 clp.__
 
-4. Es importante tener en cuenta que la __edad máxima__ que soporta el sistema es de __100 años__. En caso de se ingrese una edad que no corresponde se debe retornar un _mensaje de error_.
+4. Es importante tener en cuenta que la __edad máxima__ que soporta el sistema es de __100 años__. En caso de que se ingrese una edad que no corresponde se debe retornar un _mensaje de error_.
 
 5. Para la entrega del proyecto súbelo a tu __GitHub__, agrega el link a un .txt y ese archivo lo cargas en la plataforma.
 
