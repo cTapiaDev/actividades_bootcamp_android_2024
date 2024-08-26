@@ -1,6 +1,6 @@
 # Datos de Usuario
 
-En este ejercicio te toca simular el ingreso de datos de un nuevo Usuario. La importante es que tengas en cuenta que un par de datos __pueden ser o no nulos__, y eso cambiará totalmente la respuesta de la aplicación.
+En este ejercicio te toca simular el ingreso de datos de un nuevo Usuario. Lo importante es que tengas en cuenta que un par de datos __pueden ser o no nulos__, y eso cambiará totalmente la respuesta de la aplicación.
 
 1. Debes crear una clase que reciba los datos del usuario __(nombre, edad, trabajo, referencia)__.
     - Utiliza un __constructor primario__.
