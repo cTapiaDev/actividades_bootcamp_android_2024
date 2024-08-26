@@ -18,6 +18,6 @@
 
 ----------
 
-__Se Adjunta imagen referencial del proyecto__
+__Se Adjunta imagen de referencia para el proyecto__
 
 ![](https://imgur.com/lC6ORYA.png)
