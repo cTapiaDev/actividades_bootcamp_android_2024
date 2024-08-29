@@ -20,7 +20,7 @@ Vamos a culminar los ejercicios de __Kotlin consola__ con un último integrador 
     - En __al menos una__ de ellas realiza un retiro fallido.
     - Imprime el historial __de cada una__ de las cuentas.
 
-5. Como se trata de un nuevo proyecto, debes subir el repositorio a tu cuenta de __GitHub__ y el proporcionar el link por medio de la plataforma. Recuerda que el link debe estar dentro de un archivo _.txt_
+5. Como se trata de un nuevo proyecto, debes subir el repositorio a tu cuenta de __GitHub__ y proporcionar el link por medio de la plataforma. Recuerda que el link debe estar dentro de un archivo _.txt_
 
 ----------
 __Se adjunta imagen de referencia de la consola__
