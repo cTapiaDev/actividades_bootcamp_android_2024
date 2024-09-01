@@ -1,6 +1,6 @@
 # Sistema de Transacciones Bancarias
 
-Vamos a culminar los ejercicios de __Kotlin consola__ con un último integrador en el que tendrán que simular parte de un _sistema bancario_.
+Vamos a culminar los ejercicios de __Kotlin consola__ con un último integrador en el que tendrás que simular parte de un _sistema bancario_.
 
 1. Esta vez debes crear dos archivos por separado; __un Main__ dónde se realicen las transacciones y __una CuentaBancaria__ que almacene las funciones a utilizar.
 
