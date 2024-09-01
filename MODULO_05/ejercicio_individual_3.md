@@ -9,7 +9,7 @@ En este ejercicio te toca simular el ingreso de datos de un nuevo Usuario. Lo im
 
 2. Si la clase está correctamente creada, solo te queda ingresar mínimo dos usuarios y mostrar sus datos por consola. Esto último hazlo a través de una función de clase que tenga el nombre de __mostrarDatos()__.
 
-3. Para la entrega del proyecto súbelo a tu __GitHub__, agrega el link a un .txt y ese archivo lo cargas en la plataforma.
+3. Para la entrega del proyecto súbelo a tu __GitHub__, agrega el enlace a un .txt y ese archivo lo cargas en la plataforma.
 
 ----------
 __Se adjunta imagen de referencia de la consola__

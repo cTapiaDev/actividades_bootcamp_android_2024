@@ -17,7 +17,7 @@ Ya tienes preparado el ingreso de datos de Usuarios, ahora es necesario almacena
     - Muestra la lista por consola.
     - Elimina uno de los usuarios y vuelve a mostrar la lista.
 
-5. Actualiza tu proyecto en __GitHub__ con los nuevos cambios y exactamente igual al procedimiento anterior, sube a la plataforma un archivo .txt con el link al repositorio.
+5. Actualiza tu proyecto en __GitHub__ con los nuevos cambios y exactamente igual al procedimiento anterior, sube a la plataforma un archivo .txt con el enlace al repositorio.
 
 ----------
 __Se adjunta imagen de referencia de la consola__

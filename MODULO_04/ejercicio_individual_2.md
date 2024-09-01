@@ -4,7 +4,7 @@
 
 2. Distribuye el layout de tal manera que organices 6 imágenes en diferentes tamaños __(Ver imagen de referencia para conocer el diseño que debe tener el Layout)__.
 
-3. Utiliza __ImageView__ para agregar las imágenes _(El contenido de las mismas es de libre elección)_.
+3. Utiliza __ImageView__ para agregar las imágenes _(El contenido de estas es de libre elección)_.
 
 4. Para entregar el proyecto **solo basta con capturas** del código .xml y la vista emulada (virtual o física).
     - Comprime las capturas en un **.zip** y lo subes a la plataforma.
