@@ -9,7 +9,7 @@ Vamos a culminar los ejercicios de __Kotlin consola__ con un último integrador 
     - Al momento de crear un nuevo objeto de tipo _CuentaBancaria_, es importante que se genere una __lista de texto__ que funcionará como historial para las transacciones.
 
 3. Dentro de la clase debes crear __cuatro funciones__:
-    - __deposito:__ Permite realizar un deposito a la cuenta bancaria, por ende, el saldo se verá afectado.
+    - __deposito:__ Permite realizar un depósito a la cuenta bancaria, por ende, el saldo se verá afectado.
     - __retiro:__ Permite realizar un retiro de la cuenta bancaria, siempre y cuando se tenga saldo disponible.
     - __mostrarSaldo:__ Permite ver el saldo disponible.
     - __mostrarHistorial:__ Muestra la totalidad de transacciones que se han realizado en la cuenta bancaria.
@@ -20,7 +20,7 @@ Vamos a culminar los ejercicios de __Kotlin consola__ con un último integrador 
     - En __al menos una__ de ellas realiza un retiro fallido.
     - Imprime el historial __de cada una__ de las cuentas.
 
-5. Como se trata de un nuevo proyecto, debes subir el repositorio a tu cuenta de __GitHub__ y el proporcionar el link por medio de la plataforma. Recuerda que el link debe estar dentro de un archivo _.txt_
+5. Como se trata de un nuevo proyecto, debes subir el repositorio a tu cuenta de __GitHub__ y el proporcionar el enlace por medio de la plataforma. Recuerda que el enlace debe estar dentro de un archivo _.txt_
 
 ----------
 __Se adjunta imagen de referencia de la consola__

@@ -12,7 +12,7 @@ La segunda parte del proyecto consistirá en agregarle algo de lógica a la vist
 
 4. El diseño es de _libre elección_, lo importante es que se respete la correcta organización de un proyecto. El uso de guías _(Guidelines)_ es opcional dentro del layout.
 
-5. Para enviar el proyecto esta vez si se debe __comprimir la totalidad de los archivos__ en un __.zip__ y subirlo a la plataforma.
+5. Para enviar el proyecto esta vez sí se debe __comprimir la totalidad de los archivos__ en un __.zip__ y subirlo a la plataforma.
 
 ----------
 __Se adjunta imagen de referencia para el proyecto__

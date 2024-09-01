@@ -3,7 +3,7 @@
 Si, toca enfrentarse a un __upgrade__ del ejercicio anterior. Esta vez ya no se mostrará una sola imagen, si no que será una colección contenida dentro de un __LazyColumn__.
 
 1. Con un código bien _fragmentado_, los cambios que deberás hacer ahora _son mínimos_. Lo primero es __crear una lista__ que reciba rutas de imágenes:
-    - Recordar que una buena forma de alojar una imagen es dentro de la carpeta __drawable__, por lo tanto tienes que acceder a la carpeta __R__ para conseguir cada una de las rutas.
+    - Recordar que una buena forma de alojar una imagen es dentro de la carpeta __drawable__, por lo tanto, tienes que acceder a la carpeta __R__ para conseguir cada una de las rutas.
 
 2. Una vez tengas la lista creada con __mínimo cinco imágenes__, toca crear un __LazyColumn__ que va a recibir la lista y mostrar sus elementos en el orden que fueron almacenados.
     - Aquí tranquilamente puedes reutilizar la estructura en la que ya estabas alojando una sola imagen.
