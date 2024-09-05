@@ -15,7 +15,7 @@ Vamos a mejorar un poco la aplicación anterior. La notificación que nos avisa 
 __PD:__ _Al final se adjuntará la documentación oficial sobre las diferentes formas de crear un elemento Dialog_.
 
 ----------
-[Documentación de Dialog](hhttps://developer.android.com/develop/ui/views/components/dialogs?hl=es-419)
+[Documentación de Dialog](https://developer.android.com/develop/ui/views/components/dialogs?hl=es-419)
 
 ----------
 __Se adjuntan imágenes de referencia para el proyecto__
