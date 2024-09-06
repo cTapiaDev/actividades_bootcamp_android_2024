@@ -2,7 +2,7 @@
 
 No siempre la primera elección es la correcta, o quizás te equivocaste a la hora de dar clic y justo no era el __Pokémon__ que querías para tí... es por eso que vamos a crear la instancia de volver atrás y tener una nueva oportunidad de __elegir__.
 
-1. Para resolver esta problemática es __importante__ que para este momento entiendas la disposición que tenemos sobre un __layout__ y como podemos manipular los elementos en el para nuestro beneficio.
+1. Para resolver esta problemática es __importante__ que en este momento entiendas la disposición que tenemos sobre un __layout__ y como podemos manipular los elementos en el para nuestro beneficio.
 
 2. Aplicar correctamente __.setVisibility__ a tus estructuras te ayudará bastante, solamente debes decidir el __momento exacto__ en el que utilizarlo.
 
