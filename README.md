@@ -1,1 +1,26 @@
-# actividades_bootcamp_android_2024
+# Actividades Bootcamp Android 2024
+--------
+## Módulo 4
+1. [Primer "Hola Mundo" en Android](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_1.md)
+2. [Disposición de todo el Layout](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_2.md)
+3. [Componentes de diseño](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_3.md)
+4. [Captura de datos](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_4.md)
+5. [Contador](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_5.md)
+6. [Selecciona tu primer Pokémon](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_6.md)
+6-1. [Notificación tipo Modal](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_6_1.md)
+8. [¡Pokémon a la vista!](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_7.md)
+9. [¿Tú elección es la correcta?](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_8.md)
+10. [ViewBinding](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_9.md)
+11. [Cambio de Activity](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_10.md)
+--------
+## Módulo 5
+1. [Primer proyecto en Kotlin](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_1.md)
+2. [Precio de entrada al Parque de Diversiones](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_2.md)
+3. [Datos de usuario](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_3.md)
+4. [Lista de usuarios](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_4.md)
+5. [Nueva lista de usuarios filtrada](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_5.md)
+6. [Sistema de transacciones bancarias](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_6.md)
+7. [Evento: Mostrar imagen](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_7.md)
+8. [Colección de imágenes](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_8.md)
+9. [Calculadora de IMC](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_9.md)
+10. [¡Calculo exitoso!](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_10.md)
