@@ -8,10 +8,11 @@
 5. [Contador](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_5.md)
 6. [Selecciona tu primer Pokémon](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_6.md)
 6-1. [Notificación tipo Modal](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_6_1.md)
-8. [¡Pokémon a la vista!](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_7.md)
-9. [¿Tú elección es la correcta?](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_8.md)
-10. [ViewBinding](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_9.md)
-11. [Cambio de Activity](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_10.md)
+7. [¡Pokémon a la vista!](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_7.md)
+8. [¿Tú elección es la correcta?](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_8.md)
+9. [ViewBinding](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_9.md)
+10. [Cambio de Activity](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_10.md)
+11. [Maestro Pokémon](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_11.md)
 --------
 ## Módulo 5
 1. [Primer proyecto en Kotlin](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_1.md)
