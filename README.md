@@ -27,3 +27,6 @@
 10. [¡Calculo exitoso!](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_10.md)
 11. [Arquitectura MVVM](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_11.md)
 12. [Control de errores](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_12.md)
+13. [Lista de pacientes](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_13.md)
+14. [Ingreso de datos al paciente](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_14.md)
+15. [Instrucciones de la aplicación](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_15.md)
