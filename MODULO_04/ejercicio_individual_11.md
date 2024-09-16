@@ -17,7 +17,7 @@ Pasamos por muchas etapas para llegar hasta este momento, es cierto, pero ten po
 Ahora depende de tí llevarlas a la practica, _y recuerda_, __no utilizar funciones Deprecadas__.
 
 ----------
-__Se adjuntan imagen de referencia para el proyecto__
+__Se adjuntan imágenes de referencia para el proyecto__
 
 ![](https://i.imgur.com/Is2SG7q.png)
 ![](https://i.imgur.com/jl3EeEl.png)
