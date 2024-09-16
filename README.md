@@ -13,8 +13,8 @@
 9. [ViewBinding](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_9.md)
 10. [Cambio de Activity](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_10.md)
 11. [Maestro Pokémon](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_11.md)
-12. 
-13. 
+12. [Implementando Navigation Component](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_12.md)
+13. [Varios caminos a seguir](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_13.md)
 14. 
 15. 
 16. [De GitHub para el Mundo](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_16.md)
