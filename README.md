@@ -15,8 +15,8 @@
 11. [Maestro Pokémon](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_11.md)
 12. [Implementando Navigation Component](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_12.md)
 13. [Varios caminos a seguir](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_13.md)
-14. 
-15. 
+14. [Web encapsulada](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_14.md)
+15. [Navegación completa](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_15.md)
 16. [De GitHub para el Mundo](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_16.md)
 17. [Primer commit](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/ejercicio_individual_17.md)
 18. [Sprint - M4](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_04/Sprint_M4.md)
