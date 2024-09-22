@@ -6,7 +6,7 @@ __Importante:__ Para este ejercicio puedes elegir si realizar los pasos a travé
 
 2. Crea una nueva rama y trabaja sobre ella.
 
-3. Crea un archivo __Readme.md__ o modifica el ya generado y escribe __tú nombre__ junto al __número del ejercicio__ que estás realizando.
+3. Crea un archivo __Readme.md__ o modifica el ya generado y escribe __tu nombre__ junto al __número del ejercicio__ que estás realizando.
 
 4. Genera un __nuevo commit__ con su correspondiente mensaje y realiza un __push__ directamente a tu rama personal que se encuentra en la nube.
 
