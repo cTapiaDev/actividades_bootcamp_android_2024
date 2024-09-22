@@ -8,7 +8,7 @@ __¡Conviértete en un Maestro Pokémon!__
 
 3. También debes agregar un botón para __validar tu elección__; Al momento de darle clic se debe mostrar una _notificación_ con tu elección.
 
-4. Eso no es todo, los móviles tienen la peculiaridad de poder _rotar su pantalla_, es por eso que debes adaptar el diseño de tal manera que tenga su versión __Landscape__ y no se desarme al momento de querer utilizar la aplicación con es orientación.
+4. Eso no es todo, los móviles tienen la peculiaridad de poder _rotar su pantalla_, es por eso que debes adaptar el diseño de tal manera que tenga su versión __Landscape__ y no se desarme al momento de querer utilizar la aplicación con esa orientación.
 
 5. Una vez tengas listo tu proyecto, lo debes comprimir en un archivo __.zip__ y cargarlo en la plataforma.
 

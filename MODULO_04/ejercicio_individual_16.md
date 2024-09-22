@@ -4,9 +4,9 @@
 
 2. __Modifica tu perfil__ de tal manera que cuente un poco sobre tu experiencia, manera de contactarte y tecnologías que manejas.
 
-3. Una vez finalices, genera un archivo __.txt__ que lleve dentro en enlace a tu perfil. __No olvides subirlo al nodo__.
+3. Una vez finalices, genera un archivo __.txt__ que lleve dentro el enlace a tu perfil. __No olvides subirlo al nodo__.
 
 ----------
-__Se adjunta imagen de referencia__
+__Se adjunta imagen de referencia para el proyecto__
 
 ![](https://i.imgur.com/rgDbXe1.png)
