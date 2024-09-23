@@ -5,6 +5,7 @@ En esta primera instancia crearemos una pequeña aplicación que tendrá su prop
 1. Crea la __carpeta room__ con su base de datos correspondiente. Sin olvidar que en este punto es necesario y casi obligatorio crear la base del __CRUD__.
 
 2. Crea correctamente el __modelo__ de la tabla que en primera instancia va a contener los siguientes datos:
+    - Id
     - Nombre
     - Teléfono
     - Correo
