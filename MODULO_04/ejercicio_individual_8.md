@@ -1,6 +1,6 @@
 # ¿Tú elección es la correcta?
 
-No siempre la primera elección es la correcta, o quizás te equivocaste a la hora de dar clic y justo no era el __Pokémon__ que querías para ti... es por eso que vamos a crear la instancia de volver atrás y tener una nueva oportunidad de __elegir__.
+No siempre la primera elección es la correcta, o quizás te equivocaste a la hora de dar clic y justo no era el __Pokémon__ que querías para ti... es por eso que vamos a crear la instancia de volver atrás y tener una nueva oportunidad de __elegir__. 
 
 1. Para resolver esta problemática es __importante__ que para este momento entiendas la disposición que tenemos sobre un __layout__ y como podemos manipular los elementos en el para nuestro beneficio.
 
