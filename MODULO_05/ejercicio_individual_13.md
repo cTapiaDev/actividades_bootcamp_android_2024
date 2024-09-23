@@ -1,8 +1,8 @@
-# Lista de Pacientes
+# Lista de pacientes
 
 La __calculadora de IMC__ funciona... __si__, aunque aún falta que entregue el dato sobre el estado del paciente, _pero dejemos eso para otra vista_.
 
-1. Crea una nueva vista que te permita ingresar __multiples pacientes__.
+1. Crea una nueva vista que te permita ingresar __múltiples pacientes__.
 - Ya tienes una vista principal, no es mala idea ir pensando en la integración de __navManager__ para marcar la lista de pacientes como la _vista principal_.
 - Se recomienda el uso de un botón flotante para agregar nuevos pacientes __(No es obligación)__.
 

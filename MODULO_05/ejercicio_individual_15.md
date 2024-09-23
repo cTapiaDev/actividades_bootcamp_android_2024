@@ -3,14 +3,14 @@
 Las aplicaciones más importantes del mercado siempre dan una breve introducción la primera vez que se ingresa en ellas. Es por eso que utilizaremos __DataStore__ para crear una vista de instrucciones que solamente se mostrarán la primera vez que se abra la aplicación.
 
 1. Debes crear __tres "pestañas"__ que den una pequeña introducción a la aplicación que se acaba de crear.
-- El uso de animaciones en cada pestaña es de __libre elección__.
+    - El uso de animaciones en cada pestaña es de __libre elección__.
 
 2. La última pestaña debe mostrar un __botón__ que permita el ingreso a la aplicación.
 
 3. Por nada del mundo olvides la implementación de __DataStore__ en el proceso y el manejo de la __navegación__.
-- __DataStore__ va a permitir que las instrucciones no vuelvan a visualizarse cuando ingresemos a la aplicación una segunda vez, es decir, _recordará el dispositivo_.
+    - __DataStore__ va a permitir que las instrucciones no vuelvan a visualizarse cuando ingresemos a la aplicación una segunda vez, es decir, _recordará el dispositivo_.
 
-4. Es un proceso extra agregar un __Splash__ al inicio de la aplicación. __No es obligatorio__ pero recuerda que puede servir para evitar errores visuales.
+4. Es un proceso extra agregar un __Splash__ al inicio de la aplicación. __No es obligatorio__, pero recuerda que puede servir para evitar errores visuales.
 
 5. Una vez se entra en la aplicación, la primera vista que se debe ver es la __Lista de Pacientes__.
 
