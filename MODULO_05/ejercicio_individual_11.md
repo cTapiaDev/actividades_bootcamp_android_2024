@@ -2,7 +2,7 @@
 
 1. Toma todo el __proyecto de IMC__ que tienes hasta ahora y cámbialo de tal forma que se aplique correctamente el uso de la __Arquitectura MVVM__.
 
-2. __¿Que quiere decir todo esto?__ Que se debe crear la _carpeta model, view y viewModel_.
+2. __¿Qué quiere decir todo esto?__ Que se debe crear la _carpeta model, view y viewModel_.
 
 3. Es primordial que para este punto se utilice la carpeta de __model__ _(state)_ y no exista _nada de lógica dentro de la vista_, ya que ahora todo será controlado por el __viewModel__.
 

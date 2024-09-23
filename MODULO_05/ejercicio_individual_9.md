@@ -11,7 +11,7 @@ Vamos a comenzar a crear una pequeña aplicación, _pero no te asustes_, no ser�
 4. Se evaluará la creación de __un Text__, __tres OutlinedTextView__, __un Button__ y __un MultiButton Segmentado__.
 
 5. Al final de la explicación se adjunta la __documentación__ para implementar correctamente la estructura del __MultiButton Segmentado__.
-- __Importante:__ Debes modificar el funcionamiento de este Button para que solamente se pueda dar clic en una de las opciones, es decir, si se selecciona _"Hombre"_, se debe desmarcar _"Mujer"_ y viceversa.
+    - __Importante:__ Debes modificar el funcionamiento de este Button para que solamente se pueda dar clic en una de las opciones, es decir, si se selecciona _"Hombre"_, se debe desmarcar _"Mujer"_ y viceversa.
 
 6. Una vez completes las funcionalidades, crea un nuevo repositorio en __GitHub__ y sube el enlace al nodo dentro un archivo __.txt__
 ----------
