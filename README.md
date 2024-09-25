@@ -2,6 +2,7 @@
 --------
 ## Módulo 6
 1. [Backend Developer](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_06/ejercicio_individual_1.md)
+2. [Frontend Developer](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_06/ejercicio_individual_2.md)
 --------
 ## Módulo 5
 1. [Primer proyecto en Kotlin](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_1.md)
