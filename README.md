@@ -9,6 +9,7 @@
 6. [Backend MovieDB App](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_06/ejercicio_individual_6.md)
 7. [Diseño MovieDB App](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_06/ejercicio_individual_7.md)
 8. [Test MovieDB](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_06/ejercicio_individual_8.md)
+9. [Sprint - M6](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_06/Sprint_M6.md)
 --------
 ## Módulo 5
 1. [Primer proyecto en Kotlin](https://github.com/cTapiaDev/actividades_bootcamp_android_2024/blob/main/MODULO_05/ejercicio_individual_1.md)
