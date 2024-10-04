@@ -17,6 +17,6 @@ Ya tienes la __API News__ con su respectiva llave funcionando sin ningún proble
     - url
     - urlToImage
 
-5. Avanza con la Configuración hasta crear el __ViewModel__ y dos funciones: La primera debe permitir capturar la totalidad de noticias en una lista y la segunda, capturar una noticia por su id.
+5. Avanza con la Configuración hasta crear el __ViewModel__ y dos funciones: La primera debe permitir capturar la totalidad de noticias en una lista y la segunda, capturar una noticia por su id o name (Analiza cual te conviene más según la respuesta de datos que proporcione la API).
 
 6. Una vez tengas lista la parte del Backend de tu proyecto, súbelo a tu __GitHub__ y copia el enlace dentro de un archivo __.txt__ que subirás a la plataforma del nodo.
