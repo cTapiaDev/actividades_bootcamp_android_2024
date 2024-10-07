@@ -52,11 +52,11 @@ La empresa distribuidora de equipos móviles __MovilCL__ busca iniciar su transf
     - Al darle clic se debe abrir la aplicación que permite enviar correos.
     - La siguiente información debe aparecer por defecto:
         - __Destinatario:__ info@novaera.cl
-        - __Asunto:__ Consulta {PRODUCT_NAME} - Id: {PRODUCT_ID}
+        - __Asunto:__ Consulta {name} - Id: {id}
         - __Mensaje predefinido (Pueden modificarlo a su gusto, lo importante es que muestre el nombre y el id):
 
         "Hola
-        Me gustaría obtener más información del móvil {PRODUCT_NAME} de código {PRODUCT_ID}.
+        Me gustaría obtener más información del móvil {name} de código {id}.
         Quedo atento."
 
 11. Realiza __dos Test__ dentro de la aplicación:
