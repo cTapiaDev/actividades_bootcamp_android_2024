@@ -1,9 +1,9 @@
 # Diseño MovieDB App
 
-Para este punto ya deben estar lista las configuraciones del Backend, es decir, la __API__ debe responder los datos que le estamos pidiendo y nuestra base datos __SQLite__ debe estar correctamente configurada para poder interactuar con ella.
+Para este punto ya deben estar listas las configuraciones del Backend, es decir, la __API__ debe responder los datos que le estamos pidiendo y nuestra base de datos __SQLite__ debe estar correctamente configurada para poder interactuar con ella.
 
 1. Crea una vista que contenga una __TopBar__ con su respectivo título y un botón que permita agregar una nueva película.
-    - Al momento dar clic al botón se deben pedir los datos a la __API__ y en el mismo proceso almacenarse en la base de datos.
+    - Al momento de dar clic al botón se deben pedir los datos a la __API__ y en el mismo proceso almacenarse en la base de datos.
 
 2. Es importante que cada nueva película se pueda visualizar en el __LazyColum__ que va a mostrar la totalidad que agreguemos. 
     - __Importante:__ Algunas API's suelen agrupar los datos en pages de 10 o más elementos, _de ser ese el caso_ __debes generar una paginación interna__ que permita acceder a las películas de las paginas siguientes.

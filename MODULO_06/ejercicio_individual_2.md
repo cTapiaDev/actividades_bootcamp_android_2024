@@ -10,7 +10,7 @@ El Backend de la aplicación ya se encuentra creado, es hora de ir por el __apar
 
 4. En la vista principal debe existir un botón que te lleve a una nueva vista en dónde se puede agregar el perfil.
     -   Dicha lista debe poder ingresar todos los campos _(Excepto el de Id)_.
-    -   No olvides que la imagen se debe ingresar como __una Url__.
+    -   No olvides que la imagen se debe ingresar como __una url__.
     -   Debes crear un botón de __"Guardar"__ que al momento de darle clic _redirecciona a la vista de Home_, en dónde ya se debe visualizar el nuevo contacto.
 
 5. Además de sus datos, cada contacto debe tener un botón de __"Editar"__ y __"Eliminar"__.

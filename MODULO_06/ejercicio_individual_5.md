@@ -7,7 +7,7 @@ Si estás leyendo esto es porque la conexión con tu ViewModel __está recibiend
 
 2. Crea una __Card__ que contenga la información de cada noticia. El diseño es de libre elección, pero si se deben distribuir en ella los __siguientes elementos:__
     - name,
-    - autor,
+    - author,
     - title,
     - urlToImage: _Se debe visualizar como imagen, no como la url que está llegando desde la API_.
 
