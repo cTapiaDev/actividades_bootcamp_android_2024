@@ -13,7 +13,7 @@ La empresa distribuidora de equipos móviles __MovilCL__ busca iniciar su transf
 - Se solicita desarrollar una aplicación Android que consuma la __API REST__ proporcionada.
 - El servicio __REST__ cuenta con __dos endpoints__; El primero proporciona la totalidad de equipos móviles disponibles, y el segundo entrega los detalles de cada equipo a través de su identificador. 
 - El proyecto debe ser lo suficientemente flexible para ser escalado y mejorado con funcionalidades adicionales en fases futuras.
-- Bajo los paradigmas de flexibilidad y escalabilidad, además de costos de mantención bajos, La API mínima para realizar el proyecto es 27 y su target 34.
+- Bajo los paradigmas de flexibilidad y escalabilidad, además de costos de mantención bajos, la API mínima para realizar el proyecto es 27 y su target 34.
 
 1. __APIs:__
     - https://my-json-server.typicode.com/Himuravidal/FakeAPIdata/products/
@@ -31,7 +31,7 @@ La empresa distribuidora de equipos móviles __MovilCL__ busca iniciar su transf
 4. Dentro de la primera vista los elementos se deben mostrar por medio de una __Columna__ o una __Grilla__, el diseño queda a tu elección.
     - Demás está decir que tanto la columna como la grilla deben ser de la familia __Lazy__ _(LazyColumn o LazyVerticalGrid)_.
 
-5. La navegación dentro de la aplicación debe ser controlada por un __navManager__ y a nivel de diseño por una __TopBar__.
+5. La navegación dentro de la aplicación debe ser controlada por un __NavManager__ y a nivel de diseño por una __TopBar__.
 
 6. La paleta de colores de la aplicación consta de cuatro colores que debes utilizar con mucha sabiduría:
     - 0xFF252243
@@ -44,7 +44,7 @@ La empresa distribuidora de equipos móviles __MovilCL__ busca iniciar su transf
 
 8. Todo texto dentro de la aplicación debe estar dentro de su _respectiva variable_. A excepción de aquellos que provienen directamente de la API.
 
-9. La API de detalle retorna una valor booleano de "credit", es importante que al momento de crear la vista de detalle, este dato __no se muestre__ tal cual y se cambie por:
+9. La API de detalle retorna un valor booleano de "credit", es importante que, al momento de crear la vista de detalle, este dato __no se muestre__ tal cual y se cambie por:
     - __true:__ Acepta Crédito.
     - __false:__ Sólo Efectivo.
 
@@ -63,4 +63,4 @@ La empresa distribuidora de equipos móviles __MovilCL__ busca iniciar su transf
     - 1 Test Unitario
     - 1 Test Instrumental
 
-12. Una vez completo tu proyecto, crea un repositorio en tu __GitHub__ y alojalo allí. Copia el enlace dentro de un archivo __.txt__ y súbelo al nodo.
+12. Una vez completo tu proyecto, crea un repositorio en tu __GitHub__ y alójalo allí. Copia el enlace dentro de un archivo __.txt__ y súbelo al nodo.
